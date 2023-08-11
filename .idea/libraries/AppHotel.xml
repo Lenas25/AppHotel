@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="AppHotel">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/store/AppHotel.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
